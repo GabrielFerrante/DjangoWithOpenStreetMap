@@ -1,0 +1,1 @@
+Baixar arquivos do geopip para fazer o mapeamento de ips para localizações
